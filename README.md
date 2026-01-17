@@ -118,7 +118,7 @@ Kafka Topic (order-events)
 </p>
 
 <p align="center">
-  <img src="screenshots/analytics.png" width="85%">
+  <img src="Screenshot 2026-01-17 195242.png" width="85%">
 </p>
 
 <p align="center">
