@@ -6,7 +6,7 @@ A **distributed, event-driven system** that processes real-time order events usi
 Built with **Python**, powered by **Docker**, and designed using **industry-grade architecture patterns**.
 
 <p align="center">
-  <img src="architecture.png" alt="Kafka Event Driven Architecture" width="90%">
+  <img src="Screenshot 2026-01-17 202205.png" alt="Kafka Event Driven Architecture" width="90%">
 </p>
 
 <p align="center">
