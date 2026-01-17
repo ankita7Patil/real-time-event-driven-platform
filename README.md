@@ -122,7 +122,7 @@ Kafka Topic (order-events)
 </p>
 
 <p align="center">
-  <img src="screenshots/storage.png" width="85%">
+  <img src="Screenshot 2026-01-17 200421.png" width="85%">
 </p>
 
 📁 **All screenshots are stored inside the `screenshots/` folder**
