@@ -110,7 +110,7 @@ Kafka Topic (order-events)
 ## 🖼️ Screenshots & Results
 
 <p align="center">
-  <img src="screenshots/producer.png" width="85%">
+  <img src="producer.png" width="85%">
 </p>
 
 <p align="center">
