@@ -125,7 +125,6 @@ Kafka Topic (order-events)
   <img src="Screenshot 2026-01-17 200421.png" width="85%">
 </p>
 
-📁 **All screenshots are stored inside the `screenshots/` folder**
 
 ---
 
@@ -218,3 +217,6 @@ git add .
 git commit -m "Improve README with screenshots and badges"
 git push
 ```
+This project is not just a Kafka demo, but a real-world simulation of how modern backend systems work at scale.
+
+If you’re a beginner learning Kafka — this project proves you don’t need years of experience to think like a system designer.
